@@ -36,16 +36,11 @@ The dashboard includes:
 | 🗂️ Slicers | Filter data by Region, Segment, Category, Ship Mode |
 
 
-#  Tools & Technologies
-- **Power BI Desktop** – Main dashboard building tool
-- **Power Query** – Data cleaning and transformation
-- **DAX** – Calculations (e.g., distinct order count)
 
 
-#  How to Run the Project
 
-1. Open **Power BI Desktop**
-2. Click **File > Open** and select `Sales_Dashboard.pbix` (shared separately)
+
+
 3. Interact with:
    - Date slicers to view monthly/quarterly trends
    - Filters to explore regional or category-specific performance
